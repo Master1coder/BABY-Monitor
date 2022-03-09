@@ -1,0 +1,21 @@
+body{
+    background: url("background.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status,#objects{
+font-size: 20px;
+}
+
+canvas{
+   
+    box-shadow: 5px 5px 5px  yellow;
+    border: 5px ridge red;
+}
